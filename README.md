@@ -53,10 +53,11 @@ Backward propagation is now performed on this total loss and the weights were up
 
 We see that the training performs well for MNIST but lands at a 50pc accuracy for the sum prediction. This needs to be explored further but the logs elucidate this in the best manner!
 
-[Training Logs](/training_logs.JPG)
+![Training Logs](/training_logs.JPG)
+
 Authors
 =====
-Ashwin Aralamallige Gopalakrishna
-L.MAHESH
-Pratima Verma
-Praveen Pethurajan
+Ashwin Aralamallige Gopalakrishna </br>
+L.Mahesh </br>
+Pratima Verma </br>
+Praveen Pethurajan </br>
